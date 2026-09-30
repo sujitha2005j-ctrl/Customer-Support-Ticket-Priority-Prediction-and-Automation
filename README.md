@@ -105,5 +105,4 @@ Expected benefits include:
 * Faster customer response
 * Better customer support management
 
-The project demonstrates how **Salesforce and Agentforce AI** can be combined with automation to improve the efficiency and effectiveness of customer support operations.
-# Customer-Support-Ticket-Priority-Prediction-and-Automation
+
